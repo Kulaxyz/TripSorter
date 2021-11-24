@@ -1,0 +1,10 @@
+/node_modules
+/vendor
+.env
+composer.lock
+/.idea
+*.sql
+*.pdf
+*.yaml
+*.log
+*.cache

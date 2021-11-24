@@ -1,0 +1,14 @@
+{
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "TripSorter\\": "src/"
+        }
+    },
+    "require-dev": {
+        "vimeo/psalm": "^4.13",
+        "phpunit/phpunit": "9"
+    }
+}
